@@ -32,4 +32,5 @@ The Key Features are following:
 
 ​​5. State-of-the-Art Performance​​: Achieves superior results on UCF-Crime and XD-Violence benchmarks.
 
- ![PRCV 2025 poster.png](./PRCV 2025 poster.png)
+ ![PRCV2025poster.png](./PRCV2025poster.png)
+ 
