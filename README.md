@@ -31,3 +31,5 @@ The Key Features are following:
 ​​4. Cross-Modal Alignment​​: Enhances visual features via semantic alignment with text.
 
 ​​5. State-of-the-Art Performance​​: Achieves superior results on UCF-Crime and XD-Violence benchmarks.
+
+ ![PRCV 2205 poster](./PRCV 2205 poster.png)
